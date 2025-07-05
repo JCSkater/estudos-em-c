@@ -21,4 +21,6 @@ int main(){
     printf("Digite sua opção: ");
     scanf(" %c", &opcao);
     printf("A opção digitada foi: %c\n", opcao);
+
+    return 0;
 }

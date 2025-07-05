@@ -7,7 +7,7 @@ int main(){
     float altura = 1.75;
     double peso = 90.3;
     char letra = 'A';
-    char nome[20] = 'Sergio';
+    char nome[20] = 'Iniciar';
 
     //declarando o valor da variável idade
     idade = 25;

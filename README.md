@@ -4,6 +4,7 @@
 - baixe o binário para sua máquina
 - no seu App de linha de comando digite ./nome do binario
 
-ex:   
+Apps:  
 ./ola mundo  
-./entrada-e-saida
+./entrada-e-saida  
+./matricula-aluno

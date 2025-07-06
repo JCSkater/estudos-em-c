@@ -7,4 +7,5 @@
 Apps:  
 ./ola mundo  
 ./entrada-e-saida  
-./matricula-aluno
+./matricula-aluno  
+./cartas-super-trunfo

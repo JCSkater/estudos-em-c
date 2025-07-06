@@ -1,2 +1,2 @@
 # estudos-em-c
-Repositório para meus projetos em C
+Branch de desenvolvimento para meus projetos em C

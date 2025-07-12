@@ -8,4 +8,5 @@ Apps:
 ./ola mundo  
 ./entrada-e-saida  
 ./matricula-aluno  
+./calcula-media  
 ./cartas-super-trunfo

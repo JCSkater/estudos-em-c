@@ -21,10 +21,10 @@ int main(){
     divisao = numero1 / numero2;
 
     // exibe o resultado no terminal
-    printf("A soma é: %d \n", soma);
-    printf("A subtração é: %d \n", subtracao);
-    printf("A multiplicação é: %d \n", multiplicacao);
-    printf("A divisão é: %d \n", divisao);
+    printf("A soma é: %d\n", soma);
+    printf("A subtração é: %d\n", subtracao);
+    printf("A multiplicação é: %d\n", multiplicacao);
+    printf("A divisão é: %d\n", divisao);
 
     return 0;
 }

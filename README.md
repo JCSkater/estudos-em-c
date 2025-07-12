@@ -1,2 +1,11 @@
-# estudos-em-c
-Branch de desenvolvimento para meus projetos em C
+# Repositório para meus projetos em C
+
+## Para executar minhas aplicações:
+- baixe o binário (raw file) para sua máquina
+- no seu App de linha de comando digite ./nome do binario
+
+Apps:  
+./ola mundo  
+./entrada-e-saida  
+./matricula-aluno  
+./cartas-super-trunfo
